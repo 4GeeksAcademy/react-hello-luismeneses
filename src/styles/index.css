@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.mycontainer{
+    background-color: rgba(0, 0, 0, 0.799);
+}
+
+.myjumbotron{
+    display: flex;
+    text-align-last: left;
+    background-color: rgba(0, 0, 0, 0.097);
+}
+
+.mycard{
+    width: 18rem;
+}
+.myfooter{
+    background-color: rgba(0, 0, 0, 0.799);
+}
